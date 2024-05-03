@@ -3,7 +3,7 @@
 	- Matheus Yuiti Moriy Miata, 802097
 	- Vítor Milanez, 804319
 ---
-Implementação de um analisador léxico para a Linguagem Algorítmica (LA) desenvolvida pelo professor Jander.
+Implementação de um analisador sintático para a Linguagem Algorítmica (LA) desenvolvida pelo professor Jander.
 
 - Executar com o corretor automático:
 ``` Shell
